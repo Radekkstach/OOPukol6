@@ -1,0 +1,11 @@
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\bin\Debug\OOPukol6.exe.config
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\bin\Debug\OOPukol6.exe
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\bin\Debug\OOPukol6.pdb
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\obj\Debug\OOPukol6.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\obj\Debug\OOPukol6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\obj\Debug\OOPukol6.Form1.resources
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\obj\Debug\OOPukol6.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\obj\Debug\OOPukol6.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\obj\Debug\OOPukol6.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\obj\Debug\OOPukol6.exe
+C:\Users\Uživatel\Desktop\programko\OOPukol6\OOPukol6\obj\Debug\OOPukol6.pdb
